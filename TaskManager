@@ -1,0 +1,26 @@
+# Task Manager (SwiftUI) 📝
+
+## Description
+A simple SwiftUI app that allows users to manage daily tasks.  
+This project focuses on UI/UX design and basic state management in iOS development.
+
+## Features
+- Add new tasks
+- Display task list
+- Delete tasks
+
+## Focus
+This project was built to practice:
+- Basic SwiftUI layout
+- User interaction
+- Simple UI/UX flow
+
+## Screenshot
+![App Screenshot](screenshot.png)
+
+## Tech Stack
+- Swift
+- SwiftUI
+
+## Author
+Hajar
